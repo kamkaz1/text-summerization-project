@@ -1,2 +1,3 @@
 # text-summerization-project
-text summerization using NLP
+text summerization using text rank algorithm.
+this helps in generating a extractive summery of an articles or group of articles
